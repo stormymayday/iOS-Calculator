@@ -164,7 +164,7 @@
                                     <backgroundConfiguration key="background">
                                         <color key="backgroundColor" systemColor="systemGray3Color"/>
                                     </backgroundConfiguration>
-                                    <fontDescription key="titleFontDescription" type="system" weight="light" pointSize="60"/>
+                                    <fontDescription key="titleFontDescription" type="system" weight="light" pointSize="50"/>
                                     <color key="baseForegroundColor" systemColor="scrollViewTexturedBackgroundColor"/>
                                 </buttonConfiguration>
                             </button>
