@@ -150,7 +150,7 @@
                                 </buttonConfiguration>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Fce-tt-pgn">
-                                <rect key="frame" x="10" y="668.33333333333337" width="85.666666666666671" height="139.66666666666663"/>
+                                <rect key="frame" x="9.9999999999999964" y="668.33333333333337" width="56.666666666666657" height="139.66666666666663"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="7">
                                     <backgroundConfiguration key="background">
@@ -241,7 +241,6 @@
                             <constraint firstItem="R30-IE-JCI" firstAttribute="height" secondItem="3g6-yk-Gjj" secondAttribute="height" id="XYI-Rk-KGK"/>
                             <constraint firstItem="R30-IE-JCI" firstAttribute="leading" secondItem="lrc-14-fgw" secondAttribute="trailing" constant="10" id="Xox-ei-rao"/>
                             <constraint firstItem="6DE-DA-tH7" firstAttribute="width" secondItem="3g6-yk-Gjj" secondAttribute="width" id="XrY-Jj-Wy1"/>
-                            <constraint firstItem="Fce-tt-pgn" firstAttribute="width" secondItem="3g6-yk-Gjj" secondAttribute="width" id="XvD-0h-Jzd"/>
                             <constraint firstAttribute="trailing" secondItem="DFb-qw-U7p" secondAttribute="trailing" constant="10" id="YKE-2G-Bz2"/>
                             <constraint firstItem="Ynn-y8-e56" firstAttribute="height" secondItem="3g6-yk-Gjj" secondAttribute="height" id="YRe-eT-gpi"/>
                             <constraint firstItem="DFb-qw-U7p" firstAttribute="top" secondItem="6bm-PE-Ehf" secondAttribute="bottom" constant="10" id="ax2-aH-CJD"/>
